@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ミルクティーラブ",
+  "base_artist": "YUC'e",
+  "createdAt": "2025-12-19T05:07:50.513864Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ミルクティーラブ",
+      "artist": "YUC'e",
+      "has_synced": false,
+      "path": "select/pl_01_ミルクティーラブ_YUC'e.txt"
+    }
+  ]
+}
